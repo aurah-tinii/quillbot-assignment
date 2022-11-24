@@ -1,0 +1,113 @@
+{
+  "type": "Lof File",
+  "Sun Nov 20 2022 19:45:41 GMT+0530 ": {
+    "type": "DELETE",
+    "NewData": "",
+    "oldData": {
+      "id": 34,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:14:42.801Z",
+      "createdAt": "2022-11-20T14:14:42.801Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": false
+    }
+  },
+  "Sun Nov 20 2022 19:49:09 GMT+0530 ": {
+    "type": "DELETE",
+    "NewData": "",
+    "oldData": {
+      "id": 32,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:14:42.382Z",
+      "createdAt": "2022-11-20T14:14:42.382Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": false
+    }
+  },
+  "Sun Nov 20 2022 19:49:47 GMT+0530 ": {
+    "type": "EDIT",
+    "NewData": {
+      "id": 35,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:14:42.946Z",
+      "createdAt": "2022-11-20T14:14:42.946Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": true
+    },
+    "oldData": {
+      "id": 35,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:14:42.946Z",
+      "createdAt": "2022-11-20T14:14:42.946Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": false
+    }
+  },
+  "Sun Nov 20 2022 19:49:51 GMT+0530 ": {
+    "type": "EDIT",
+    "NewData": {
+      "id": 35,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:19:47.073Z",
+      "createdAt": "2022-11-20T14:14:42.946Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": false
+    },
+    "oldData": {
+      "id": 35,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:19:47.073Z",
+      "createdAt": "2022-11-20T14:14:42.946Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": true
+    }
+  },
+  "Sun Nov 20 2022 19:49:54 GMT+0530 ": {
+    "type": "EDIT",
+    "NewData": {
+      "id": 36,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:14:43.084Z",
+      "createdAt": "2022-11-20T14:14:43.084Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": true
+    },
+    "oldData": {
+      "id": 36,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:14:43.084Z",
+      "createdAt": "2022-11-20T14:14:43.084Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": false
+    }
+  },
+  "Sun Nov 20 2022 19:56:01 GMT+0530 ": {
+    "type": "EDIT",
+    "NewData": {
+      "id": 35,
+      "title": "sdfghjjhgvkzfsd",
+      "updatedAt": "2022-11-20T14:19:51.117Z",
+      "createdAt": "2022-11-20T14:14:42.946Z",
+      "dueBy": "2022-11-20T19:44",
+      "completed": false,
+      "starred": false
+    },
+    "oldData": {
+      "id": 35,
+      "title": "sdfghj",
+      "updatedAt": "2022-11-20T14:19:51.117Z",
+      "createdAt": "2022-11-20T14:14:42.946Z",
+      "dueBy": "2022-11-20T19:44:00.000Z",
+      "completed": false,
+      "starred": false
+    }
+  }
+}
